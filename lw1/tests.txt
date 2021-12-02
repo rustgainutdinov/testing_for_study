@@ -1,0 +1,44 @@
+2 3 4
+default
+9 100 99
+default
+1.6 1.5 1.4
+default
+2 3 2
+isosceles
+4 4 3
+isosceles
+5 7 7
+isosceles
+5.7 7.2 7.2
+isosceles
+1 1 1
+equilateral
+0.5 0.5 0.5
+equilateral
+100 50 50
+Invalid triangle
+0.5 1 0.5
+Invalid triangle
+8 8 17
+Invalid triangle
+
+Not a triangle
+5
+Not a triangle
+2 3
+Not a triangle
+2 3 4 4
+Not a triangle
+s
+Got not number values as arguments
+- 3 4
+Got not number values as arguments
+3 b 4
+Got not number values as arguments
+6 , 2
+Got not number values as arguments
++ - =
+Got not number values as arguments
+a b c
+Got not number values as arguments

@@ -1,0 +1,20 @@
+http://91.210.252.240/broken-links/../links/locked.php
+http://91.210.252.240/broken-links/../links/return500bad.php
+http://91.210.252.240/broken-links/../links/teapot418.php
+http://91.210.252.240/broken-links/../links/un503availible.php
+http://91.210.252.240/broken-links/../links/502gateaway502.php
+http://91.210.252.240/broken-links/../links/access401unauthorized.php
+http://91.210.252.240/broken-links/../links/deny403forbidden.php
+http://91.210.252.240/broken-links/../links/movedper.php
+http://91.210.252.240/broken-links/../links/found302.php
+http://91.210.252.240/broken-links/tel://1234567920
+http://91.210.252.240/broken-links/mailto:info@yoursite.com
+http://91.210.252.240/broken-links/images/noimage.jpg
+http://91.210.252.240/broken-links///player.vimeo.com/video/'+f.id+'?autoplay=1
+http://91.210.252.240/broken-links///about:blank
+http://91.210.252.240/broken-links///view.vzaar.com/'+f.id+'/player?autoplay=true
+http://91.210.252.240/broken-links/'+e+'
+http://91.210.252.240/broken-links///www.youtube.com/embed/'+f.id+
+http://91.210.252.240/broken-links/%url%
+http://91.210.252.240/broken-links/../links/404not404found404.php
+Count of links: 19, date: 12/1/2021
